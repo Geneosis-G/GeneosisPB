@@ -1,0 +1,26 @@
+Rocket science at its finest!
+
+Scientists say this is the next generation of spacecraft engines, and guess what? You have access to the beta test program of this fabulous prototype! Don't ask where this technology comes from, it's classified.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Plasma Booster: You can "fly" using plasma explosions.
+
+[b]COMMANDS[/b]
+- [b]Ragdoll + 2x[Forward]:[/b] Activate the booster.
+
+[b]CHARACTERISTICS[/b]
+- The plasma explosion will throw you in the direction of the camera.
+- It is recomended to place the camera either really close or really far from your goat when using this mutator.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The booster can sometimes give you enough speed to pass through matter.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- You can sometimes end up stuck in some wall after using the boost. To fix it try in the order: to unragdoll, to spam the boost or to respawn.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Did you recognize it? Yep, that's the Excaligoat power ^^ But the wonderful power of this sword had one major fault: It was completely impossible to make it go in the direction you want it to go X)
+So that's why I came with this mod: I turned the random explosive sword into a controllable explosive engine :p Nothing hard to code that, I just changed the direction  where you are projected to be aligned with the camera.
+[/quote]
